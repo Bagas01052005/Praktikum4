@@ -6,4 +6,4 @@
 
 # Soal
 
-![gambar](ScreenshotTugas5/SoalTugas5.jpeg).
+![gambar](ScreenshotTugas5/SoalTugas5.jpeg)
