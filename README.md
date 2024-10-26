@@ -6,4 +6,5 @@
 
 # Soal
 
+![gambar](ScreenshotTugas5/SoalTugas5.png)
 # Input
