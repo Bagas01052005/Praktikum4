@@ -7,3 +7,19 @@
 # Soal
 
 ![gambar](ScreenshotTugas5/SoalTugas5.jpeg)
+
+# Input
+
+![gambar](ScreenshotTugas5/Input.png)
+
+# Input Lanjutan
+
+![gambar](ScreenshotTugas5/InputLanjutan.png)
+
+# Input Lanjutan Tugas 5
+
+![gambar](ScreenshotTugas5/InputLanjutanTugas5.png)
+
+# Output
+
+![gambar](ScreenshotTugas5/OutputTugas5.png)
